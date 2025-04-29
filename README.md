@@ -11,6 +11,5 @@ Just wrapped up an insightful hashtag #PowerBI project analyzing Blinkit’s (fo
 📊 Tools & Techniques:
 ✔ Power BI (DAX, Power Query, Custom Visuals)
 ✔ Data Cleaning, Time Intelligence, KPIs & Interactive Dashboards
-This project deepened my understanding of hashtag#QuickCommerce and how data-driven decisions can optimize operations & customer experience.
-hashtag#BusinessIntelligence hashtag#Blinkit hashtag#DataVisualization
-hashtag#PowerBi
+This project deepened my understanding of QuickCommerce and how data-driven decisions can optimize operations & customer experience.
+
